@@ -1,0 +1,28 @@
+SQL Project - Maji Ndogo's water
+
+Description
+This project is a comprehensive SQL-based solution aimed at Maji Ndogo's water projects. It utilizes various SQL techniques to research water sources in Maji Ndogo's and generating insights to NGO's.
+
+Features
+SELECT Statement
+WHERE Clause
+ORDER BY
+GROUP BY
+JOINs
+INSERT INTO
+Subqueries
+Aggregate Functions
+Window Functions
+CTS
+CASE Statements
+View table
+Temporary table
+Foreign Keys and Referential Integrity ...
+
+
+Technologies Used
+MySQL, SQL server management studio
+
+License
+This project is licensed under the Explore AI academy.
+
