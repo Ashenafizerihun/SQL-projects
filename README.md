@@ -38,7 +38,7 @@ Temporary Tables
 
 Foreign Keys and Referential Integrity
 
-Technologies Used
+Technologies Used:
 
 MySQL
 
