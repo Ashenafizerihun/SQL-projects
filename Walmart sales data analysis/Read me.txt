@@ -1,0 +1,25 @@
+# Walmart Data Analysis: End-to-End SQL + Python Project
+
+This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. I utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
+
+
+## Project Steps
+
+- **Tools Used**: Python and MySQL
+
+- **Goal**: Conduct an initial data exploration to understand data distribution, check column names, types, and identify potential issues.
+- **Remove Duplicates**: Identify and remove duplicate entries to avoid skewed results.
+- **Handle Missing Values**: Drop rows or columns with missing values if they are insignificant; fill values where essential.
+- **Fix Data Types**: Ensure all columns have consistent data types (e.g., dates as `datetime`, prices as `float`).
+- **Currency Formatting**: Use `.replace()` to handle and format currency values for analysis.
+- **Set Up Connections**: Connect python and MySQL using `sqlalchemy` and load the cleaned data into the database.
+- **Business Problem-Solving**: Write and execute complex SQL queries to answer critical business questions, such as:
+     - Revenue trends across branches and categories.
+     - Identifying best-selling product categories.
+     - Sales performance by time, city, and payment method.
+     - Analyzing peak sales periods and customer buying patterns.
+     - Profit margin analysis by branch and category.---
+
+## License
+
+This project is licensed under the MIT License
